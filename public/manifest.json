@@ -1,0 +1,11 @@
+{
+  "name": "Little Days Planner",
+  "short_name": "Little Days",
+  "description": "A beautiful customizable personal planner",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FCF9FC",
+  "theme_color": "#D99AC5",
+  "orientation": "portrait-primary",
+  "icons": []
+}
